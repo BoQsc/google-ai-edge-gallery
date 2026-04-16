@@ -1,8 +1,6 @@
 ---
 name: skill-generator
 description: Interactive skill generator that helps you create new AI Edge Gallery skills with proper structure and boilerplate code.
-metadata:
-  homepage: https://github.com/google-ai-edge/gallery/tree/main/skills/built-in/skill-generator
 ---
 
 # Skill Generator
